@@ -5,4 +5,5 @@ I'm currently pursuing a Master's degree in Statistics & Data Science at the Heb
 Here are some of my recent independent projects:
 
 **[Statistics Lab Final Project](https://github.com/adicohen18/StatisticsLabFinalProject)**.
+
 The task involved conducting a statistical analysis for a political party in the 2022 elections and the previous election system in 2021, requiring skills such as data analysis, statistical modeling, and computer programming.
